@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 //declaring the struct for linkedlist
-//LIBRARY MANAGMENT SYSTEM
+//LIBRARY MANAGMENT SYSTEM using linkedlist
 struct book
 {
     /* data */
